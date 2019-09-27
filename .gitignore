@@ -1,0 +1,7 @@
+.idea/
+.editorconfig
+.vscode/
+.DS_Store
+debug
+*.xml
+*.html
